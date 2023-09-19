@@ -1,0 +1,10 @@
+c:\users\jelly\documents\visual studio 2012\Projects\TimeManagement\TimeManagement\bin\Debug\TimeManagement.exe.config
+E:\Project\DotNetProject\TimeManagement\TimeManagement\bin\Debug\TimeManagement.exe.config
+E:\Project\DotNetProject\TimeManagement\TimeManagement\bin\Debug\TimeManagement.exe
+E:\Project\DotNetProject\TimeManagement\TimeManagement\bin\Debug\TimeManagement.pdb
+E:\Project\DotNetProject\TimeManagement\TimeManagement\obj\Debug\TimeManagement.csprojResolveAssemblyReference.cache
+E:\Project\DotNetProject\TimeManagement\TimeManagement\obj\Debug\TimeManagement.Main.resources
+E:\Project\DotNetProject\TimeManagement\TimeManagement\obj\Debug\TimeManagement.Properties.Resources.resources
+E:\Project\DotNetProject\TimeManagement\TimeManagement\obj\Debug\TimeManagement.csproj.GenerateResource.Cache
+E:\Project\DotNetProject\TimeManagement\TimeManagement\obj\Debug\TimeManagement.exe
+E:\Project\DotNetProject\TimeManagement\TimeManagement\obj\Debug\TimeManagement.pdb
